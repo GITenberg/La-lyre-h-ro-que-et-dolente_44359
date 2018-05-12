@@ -1,0 +1,27 @@
+_repo: La-lyre-h-ro-que-et-dolente_44359
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44359-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Quillard, Pierre
+    birthdate: 1864
+    deathdate: 1912
+    gutenberg_agent_id: '42709'
+    url: http://www.gutenberg.org/2009/agents/42709
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2013-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44359'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French poetry -- 19th century'
+title: La lyre héroïque et dolente
+url: http://www.gutenberg.org/ebooks/44359
